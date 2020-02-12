@@ -26,6 +26,7 @@ class exceptionDemo
 		{
 			test(50);
 			test(2);
+                                                 test(3);
 		}
 		catch(UnderAge e)
 		{
